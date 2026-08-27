@@ -1,17 +1,17 @@
-# slugify-lite
+# slug-lite-js
 
 Convert any text into a clean, URL-safe slug. Zero dependencies.
 
 ## Install
 
 ```bash
-npm install slugify-lite
+npm install slug-lite-js
 ```
 
 ## Usage
 
 ```js
-const slugify = require('slugify-lite');
+const slugify = require('slug-lite-js');
 
 slugify('Hello World');           // 'hello-world'
 slugify('Café Día');              // 'cafe-dia'
