@@ -1,0 +1,20 @@
+{
+  "name": "slugify-lite",
+  "version": "1.0.0",
+  "description": "Convert any text into a clean, URL-safe slug — zero dependencies.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["slug", "slugify", "url", "string"],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "files": [
+    "index.js"
+  ]
+}
