@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Najeebth/slugify-lite.git"
+    "url": "git+https://github.com/Najeebth/slug-lite-js.git"
   },
   "files": [
     "index.js"
